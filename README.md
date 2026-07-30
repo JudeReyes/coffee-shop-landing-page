@@ -1,7 +1,8 @@
 # ☕ Maple & Bean Coffee
 
-A modern, fully responsive coffee shop landing page built from scratch using HTML5, CSS3, and JavaScript. Features a custom café design, interactive order modal, mobile-friendly navigation, smooth animations, and optimized user experience across devices.
+![Maple & Bean Coffee Preview](images-hero-section-desktop.png)
 
+A modern, fully responsive coffee shop landing page built from scratch using HTML5, CSS3, and JavaScript. Features a custom café design, interactive order modal, mobile-friendly navigation, smooth animations, and optimized user experience across devices.
 ## 🌐 Live Demo
 
 https://mapleandbeancoffee.netlify.app/
